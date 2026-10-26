@@ -1,4 +1,3 @@
-# ATLAS RUANG — Anggota 3 (Tanpa PHP)
 
 Versi HTML + CSS + JavaScript **tanpa Bootstrap dan tanpa PHP**, untuk tugas bagian 2.a Dashboard Pengelola, 2.b Eksplorasi Ruang, dan 2.c Form Maintenance.
 
